@@ -3,7 +3,7 @@
  */
 
 const AWS = require('aws-sdk');
-AWS.config.update({ region: 'us-west-2' });
+AWS.config.update({ region: 'us-east-1' });
 
 const moment = require('moment');
 const uuidv4 = require('uuid/v4');
