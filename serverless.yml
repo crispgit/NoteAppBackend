@@ -5,6 +5,7 @@ plugins:
   - serverless-offline
   # - serverless-domain-manager
 
+  
 custom:
   allowedHeaders:
     - Accept
