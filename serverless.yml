@@ -27,7 +27,7 @@ custom:
 
 provider:
   name: aws
-  runtime: nodejs10.21
+  runtime: nodejs10.x
   region: us-east-1
   stage: prod
   memorySize: 128
