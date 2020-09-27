@@ -1,5 +1,7 @@
 
 service: sls-notes-backend
+package:
+  individually: true
 
 plugins:
   - serverless-offline
